@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,landscape of waterford ponds 1,image/jpg,waterford ponds 1.jpg,2018-07-07,waterford ponds; lily pads; long grass; mud; trees; log,Waterford ON,42.933228,-80.299254,A park in the city
+item2,landscape of waterford ponds 2,image/jpg,waterford ponds 2.pdf,2018-07-07,waterford ponds; park bench; trees; grass,Waterford ON,42.933228,-80.299254,A park in the city
+item3,landscape of waterford ponds grass,image/jpg,waterford ponds grass.jpg,2018-07-07,waterford ponds; lily pads; long grass; trees; log; houses,Waterford ON,42.933228,-80.299254,A park in the city
+item4,landscape of waterford ponds trees,image/jpg,waterford ponds trees.jpg,2018-07-07,waterford ponds; park bench; trees; grass,Waterford ON,42.933228,-80.299254,A park in the city
+item5,landscape of waterford ponds with greg and pollee,image/jpg,waterford ponds with greg and pollee.jpg,2018-07-07,waterford ponds; lily pads; long grass; mud; trees; log; greg; pollee,Waterford ON,42.933228,-80.299254,A park in the city
