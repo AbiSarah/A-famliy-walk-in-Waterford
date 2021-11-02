@@ -13,3 +13,4 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+These photos were taken on a walk at the Waterford Ponds, ON. Canada. It was so nice out that I couldn't help but save them in photos.
